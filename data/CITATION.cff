@@ -1,1 +1,15 @@
-
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng mã nguồn hoặc dữ liệu từ dự án này trong nghiên cứu, vui lòng trích dẫn theo thông tin dưới đây."
+title: "Bản quyền nội dung số"
+version: 1.0.0
+date-released: 2026-11-21
+url: "https://github.com/username/vietnamese-sentiment-analysis-research"
+authors:
+  - family-names: "Võ"
+    given-names: "Hoàng Quân"
+    affiliation: "Đại học Cần Thơ"
+license: MIT
+keywords:
+  - "Natural Language Processing"
+  - "Vietnamese Sentiment Analysis"
+  - "Open Source"
